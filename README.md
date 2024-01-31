@@ -13,8 +13,8 @@ The main objective is to build a spam detector, that can automatically flag spam
 #### AT_T.ipynb
 ##### Contains all the preprocessing and training for the models as well as performance assessment
 
-#### logs folder
-##### Includes vectors and metadata for the first custom embedding model for visualization
+#### Logs folder
+##### Includes vectors and metadata of the first custom embedding model for visualization
 
 ## Contributors
 
