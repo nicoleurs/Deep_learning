@@ -11,11 +11,12 @@ The main objective is to build a spam detector, that can automatically flag spam
 ## Usage
 
 #### AT_T.ipynb
-##### Contains all the preprocessing and training for the models as well as performance assessment
-**Since these models are deep learning models, it is strongly recommended to use GPU instead of CPU for training. A good way of doing this is by running the notebook in google colaboratory**
+Contains all the preprocessing and training for the models as well as performance assessment
+
+*Since these models are deep learning models, it is strongly recommended to use GPU instead of CPU for training. A good way of doing this is by running the notebook in google colaboratory*
 
 #### Logs folder
-##### Includes vectors and metadata of the first custom embedding model for visualization
+Includes vectors and metadata of the first custom embedding model for visualization
 
 ## Contributors
 
